@@ -1,0 +1,4 @@
+.parallax-container .parallax img 
+{
+    min-height: unset;  
+}

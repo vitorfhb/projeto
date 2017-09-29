@@ -1,0 +1,52 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+  }
+.parallax-container .parallax img 
+{
+    min-height: unset;  
+}
+.card .card-image .card-title {
+    text-shadow: 1px 1px 0px grey;
+}
+#TituloDetalhe {    
+    text-shadow: 1px 1px 0px grey;
+}
+body > main > div.section.container.bemvindo > h5 {
+    text-shadow: 1px 1px 0px grey;
+}
+body > main > div:nth-child(4) > h5 {
+    text-shadow: 1px 1px 0px grey;
+}
+#modal1 {
+        width: fit-content;
+}
+.card.horizontal .card-image {
+    padding: 24px;
+}
+#modal1 .modal-content{
+    position: relative;
+    overflow-y: auto;    
+    overflow-x: auto;
+    width: auto;
+    min-width: 400px;   
+}
+
+.slider .slides {
+    background-color: transparent;
+    margin: 0;
+    height: 400px;
+}
+
+.slider .slides li img {
+    height: 400px;
+    width: 400px;
+    background-position: center;
+    background-size:400px auto;
+    background-repeat: no-repeat;
+}

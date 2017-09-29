@@ -1,0 +1,12 @@
+admin/conexao.php
+conexao.php
+admin/enviaresposta.php
+media/img/*.jpg
+media/img/*.jpeg
+media/img/*.gif
+media/img/*.png
+*.sql
+*.csv
+*.xml
+admin/ups/*
+admin/test*.*
