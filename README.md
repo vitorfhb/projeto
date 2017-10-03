@@ -6,11 +6,11 @@ Projeto de site com informações e imagens sobre passaros.
 
 ### Built With
 
-[Materializze Framework](http://materializecss.com/) 
-[Jquery](https://jquery.com/) 
-[FancyBox 3.0](http://fancyapps.com/fancybox/3/) 
-[ListNav](https://github.com/esteinborn/jquery-listnav) 
+* [Materializze Framework](http://materializecss.com/) 
+* [Jquery](https://jquery.com/) 
+* [FancyBox 3.0](http://fancyapps.com/fancybox/3/) 
+* [ListNav](https://github.com/esteinborn/jquery-listnav) 
 
 ### Agradecimento
-Prof. Thiago Colebrusco
-Prof. Saulo Lopes
+* Prof. Thiago Colebrusco
+* Prof. Saulo Lopes
