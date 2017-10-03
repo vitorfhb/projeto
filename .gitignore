@@ -10,3 +10,4 @@ media/img/*.png
 *.xml
 admin/ups/*
 admin/test*.*
+temp*.*
