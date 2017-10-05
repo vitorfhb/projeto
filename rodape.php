@@ -78,6 +78,11 @@
             Conteúdo (imagens e informações), obtidas de pesquisar na WEB, créditos reservados aos proprietários das mesmas.
 
         </p>
+        <p>
+            Agradecimentos aos Professores:<br>
+            Thiago Colebrusco<br>
+            Saulo Lopes
+        </p>
         </div>
     </div>
     <div class="modal-footer">

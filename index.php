@@ -11,12 +11,14 @@
       <div class="parallax"><img class="responsive-img" src="media/img/index.jpg" alt="fundo index"></div>
      </div>
 </div>
-<div class="section container bemvindo">
-<h5>Bem vindo!</h5>
-    <p>
-        Site com coletânea de imagens e informações sobre aves.
-    </p>
-
+<div class="center section container bemvindo">
+    <div class="row">
+        <h4>Bem vindo!</h4>
+        <p>
+        Coletânea de imagens e informações sobre aves.<br>
+        Aproveite o passeio!
+        </p>
+    </div>
 </div>
 <div class="parallax-container">
      <div class="parallax">
@@ -24,7 +26,7 @@
      </div>
     </div>
 <div class="section">
-    <h5 class="center" >DESTAQUES</h5>
+    <h4 class="center" >DESTAQUES</h4>
     <div class="carousel">
         <?php foreach ($lista as $passaros){ 
         $imagem=$midia->Buscar($passaros->codigo);
