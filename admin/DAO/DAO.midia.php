@@ -76,5 +76,22 @@ class DAOMidia extends Conexao {
             return false;
         }
     }
+    
+    function ExcluirMult($codigo){
+                
+        $comando = Conexao::getConexao()->prepare("DELETE FROM midia WHERE codigo = ? ");
+        
+        try{
+            foreach ($codigo as $id){
+            $valores = array($id);
+            $comando->execute($valores);
+            }
+            $mensagem = "Registro(s) excluido(s) com sucesso!";
+            return $mensagem;
+        } catch(Exception $e){
+            var_dump($e);
+            return false;
+        }
+    }
 }
 ?>

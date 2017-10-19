@@ -57,7 +57,11 @@
         </button>
     </form>
   </div>
-
+<script>
+    $(document).ready(function(){
+        $('#txtDescricao').trigger('autoresize');
+    });
+</script>
 <?php
 include 'rodape.php';
 ?>

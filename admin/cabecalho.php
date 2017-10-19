@@ -21,6 +21,7 @@ session_start();
     <!--Import materialize.css-->
     <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen"/>
     <link rel="stylesheet" type="text/css" href="css/teste.css">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
     <!--<link rel="stylesheet" type="text/css" href="css/dataTables.material.min.css">
     <link rel="stylesheet" type="text/css" href="css/dtcustom.css">-->
 

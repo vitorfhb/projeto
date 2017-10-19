@@ -157,7 +157,9 @@
     });
 });   
     
-    
+$(document).ready(function(){
+        $('#txtDescricao').trigger('autoresize');
+    });  
     
 </script>
 <?php

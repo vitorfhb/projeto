@@ -25,9 +25,12 @@
             </div>
             </div>
     <div class="footer-copyright">
-        <div class="container">
-    <p>Senac ©
-        <?=date('Y')?>
+        <div class="container center">
+    <p>
+    Senac © <?=date('Y')?>
+    <i id="assinatura">
+        Create by Vitor FHB
+    </i>
     </p>
         </div>
     </div>
